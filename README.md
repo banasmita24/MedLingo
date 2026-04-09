@@ -16,7 +16,7 @@ MedLingo is an AI-powered medical translation tool that simplifies complex disch
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/medlingo.git
+git clone https://github.com/YOUR_USERNAME/medlingo](https://github.com/banasmita24/MedLingo.git
 cd medlingo
 
 # Install dependencies
