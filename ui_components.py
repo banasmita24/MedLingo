@@ -33,10 +33,10 @@ def render_hero() -> str:
             Discharge instructions,<br>
             <span class="grad">understood by everyone.</span>
         </h1>
-        <p class="ml-hero-sub">
+        <p class="ml-hero-sub"><center>
             Paste any medical discharge instruction. MedLingo simplifies
             complex terminology and translates it into 80+ languages instantly.
-        </p>
+        </center></p>
     </div>
     """
 
